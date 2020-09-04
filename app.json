@@ -1,0 +1,7 @@
+{
+    "name": "Cratedigger Server",
+    "description": "The server for the cratedigger app",
+    "repository": "https://github.com/lovelylabs/cratedigger-server",
+    "keywords": ["node", "express", "heroku"],
+    "image": "heroku/nodejs"
+}

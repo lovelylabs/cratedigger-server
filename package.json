@@ -4,5 +4,8 @@
     "description": "The client for the cratedigger project",
     "main": "index.js",
     "author": "Alexander Guerra <alex@lovelylabs.io>",
-    "license": "MIT"
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js"
+    }
 }

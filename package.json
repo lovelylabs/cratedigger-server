@@ -1,8 +1,8 @@
 {
-  "name": "cratedigger-client",
-  "version": "0.0.0",
-  "description": "The client for the cratedigger project",
-  "main": "index.js",
-  "author": "Alexander Guerra <alex@lovelylabs.io>",
-  "license": "MIT"
+    "name": "cratedigger-client",
+    "version": "0.0.0",
+    "description": "The client for the cratedigger project",
+    "main": "index.js",
+    "author": "Alexander Guerra <alex@lovelylabs.io>",
+    "license": "MIT"
 }
